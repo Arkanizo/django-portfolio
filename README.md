@@ -10,4 +10,4 @@ Projekt wykonany w VisualStudio z wykorzystaniem biblioteki Django.
 
 STRUKTURA KATALOGÓW:
 
-!https://github.com/Arkanizo/django-portfolio/blob/main/structure.png
+!(https://github.com/Arkanizo/django-portfolio/blob/main/structure.png)
