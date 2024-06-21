@@ -59,6 +59,8 @@ TABELE BAZY DANYCH:
 
 
 
+Version:
+
 v 1.0:
 - w pełni funkcjonalna strona w podstawowej konfiguracji,
 - możliwość wypełnienia formularza,
