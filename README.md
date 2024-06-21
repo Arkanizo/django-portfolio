@@ -6,7 +6,9 @@ Projekt zaliczeniowy studiów podyplomowych Programista Python Developer.
 
 OPIS:
 
-Projekt wykonany w VisualStudio z wykorzystaniem biblioteki Django.
+Projekt wykonany w VisualStudio z wykorzystaniem biblioteki Django. Serwer uruchomiony na dedykowanej domenie, za bezpieczeństwo której odpowiada dostawca usług Cloudflare. Poniżej ogólna prezentacja projektu:
+
+
 
 STRUKTURA KATALOGÓW:
 
@@ -57,7 +59,15 @@ TABELE BAZY DANYCH:
 
 
 
+v 1.0:
+- w pełni funkcjonalna strona w podstawowej konfiguracji,
+- możliwość wypełnienia formularza,
+- interaktywne odnośniki,
+- zabezpieczenie protokołem HTTPS,
 
-
+In progress:
+v 1.1:
+- optymalizacja wyświetlania strony na różnych urządzeniach,
+- bugfixes,
 
 
