@@ -58,6 +58,7 @@ TABELE BAZY DANYCH:
 ![TABELE](https://github.com/Arkanizo/django-portfolio/blob/main/screens/py9.png?raw=true)
 
 requirements.txt
+
 ![REQ](https://github.com/Arkanizo/django-portfolio/blob/main/screens/req.png)
 
 Version:
