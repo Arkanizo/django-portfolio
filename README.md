@@ -69,9 +69,20 @@ v 1.0:
 - interaktywne odnośniki,
 - zabezpieczenie protokołem HTTPS,
 
-In progress:
+
 v 1.1:
 - optymalizacja wyświetlania strony na różnych urządzeniach,
 - bugfixes,
+- usprawnienie zabezpieczeń serwera,
+- skrypty automatyzujące,
 
 
+v 1.2:
+- usprawnienie zabezpieczeń serwera,
+- skrypty automatyzujące,
+
+
+In progress:
+1.3
+- dalsze usprawnienia,
+- rozszerzenie funkcjonalności,
